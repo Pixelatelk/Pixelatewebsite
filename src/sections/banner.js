@@ -9,7 +9,7 @@ import bannerIcon4 from 'assets/banner-icon-1-4.svg';
 import bannerIcon5 from 'assets/banner-icon-1-5.svg';
 import bannerIcon6 from 'assets/banner-icon-1-6.svg';
 import bannerIcon7 from 'assets/dot-pattern.svg';
-import videoBackground from 'assets/pexels.mp4';
+import videoBackground from '../assets/pexels.mp4';
 
 const Banner = () => {
   return (
