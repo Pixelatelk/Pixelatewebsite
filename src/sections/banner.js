@@ -2,13 +2,13 @@ import React from 'react';
 import { Box, Container, Image, Heading } from 'theme-ui';
 import { keyframes } from '@emotion/core';
 
-import bannerIcon1 from 'assets/banner-icon-1-1.svg';
-import bannerIcon2 from 'assets/banner-icon-1-2.svg';
-import bannerIcon3 from 'assets/banner-icon-1-3.svg';
-import bannerIcon4 from 'assets/banner-icon-1-4.svg';
-import bannerIcon5 from 'assets/banner-icon-1-5.svg';
+import bannerIcon1 from '../assets/banner-icon-1-1.svg';
+import bannerIcon2 from '../assets/banner-icon-1-2.svg';
+import bannerIcon3 from '../assets/banner-icon-1-3.svg';
+import bannerIcon4 from '../assets/banner-icon-1-4.svg';
+import bannerIcon5 from '../assets/banner-icon-1-5.svg';
 import bannerIcon6 from 'assets/banner-icon-1-6.svg';
-import bannerIcon7 from 'assets/dot-pattern.svg';
+import bannerIcon7 from '../assets/dot-pattern.svg';
 import videoBackground from '../assets/pexels.mp4';
 
 const Banner = () => {

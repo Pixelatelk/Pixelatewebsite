@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { keyframes } from '@emotion/core';
 import { Box, Container, Grid, Button, Text } from 'theme-ui';
-import BlockTitle from 'components/block-title';
-import PriceCard from 'components/cards/price-card';
-import priceIcon1 from 'assets/price-user-1-1.svg';
+import BlockTitle from '../components/block-title';
+import PriceCard from '../components/cards/price-card';
+import priceIcon1 from '../assets/price-user-1-1.svg';
 import priceIcon2 from 'assets/price-user-1-2.svg';
 
 const PRICE_MONTHLY_DATA = [

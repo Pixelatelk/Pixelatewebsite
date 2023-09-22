@@ -1,13 +1,13 @@
 import React from 'react';
 import { Box, Container, Grid } from 'theme-ui';
-import BlockTitle from 'components/block-title';
-import ServiceCard from 'components/cards/service-card';
-import serviceImage1 from 'assets/web-development.png';
-import serviceImage2 from 'assets/mobiledevelopment.png';
-import serviceImage3 from 'assets/search-engine-optimization2.png';
-import serviceImage4 from 'assets/social-media.png';
-import serviceImage5 from 'assets/ux-design.png';
-import serviceImage6 from 'assets/add.png';
+import BlockTitle from '../components/block-title';
+import ServiceCard from '../components/cards/service-card';
+import serviceImage1 from '../assets/web-development.png';
+import serviceImage2 from '../assets/mobiledevelopment.png';
+import serviceImage3 from '../assets/search-engine-optimization2.png';
+import serviceImage4 from '../assets/social-media.png';
+import serviceImage5 from '../assets/ux-design.png';
+import serviceImage6 from '../assets/add.png';
 
 const SERVICES_DATA = [
   {

@@ -17,11 +17,8 @@ export default {
     accent: '#609', // a contrast color for emphasizing UI
   },
   fonts: {
-    body: 'DM Sans',
-    // body:
-    //   'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
-    heading: 'DM Sans',
-    // heading: 'Bree Serif',
+    body: 'Poppins, sans-serif',
+    heading: 'Poppins, sans-serif',
     monospace: 'Menlo, monospace',
   },
   fontSizes: [13, 14, 16, 18, 20, 21, 30, 36, 48, 64],
